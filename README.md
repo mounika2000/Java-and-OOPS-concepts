@@ -1,1 +1,21 @@
 # Java-and-OOPS-concepts
+Concepts covered:
+- Class
+- Object
+- new keyword
+- Storage of JAVA objects in Memory
+- Swap or Excahnge objects in Java
+- Inheritance
+- Encapsulation
+- Polymorphism
+- Abstraction
+- Interfaces
+- Modifiers in Java + types
+- Static vs Dynamic Binding
+- Association, Aggreagation, Composition
+- JRE, JVM, JDK
+- String Buffer
+- String builder
+- Wrapper class in Java 
+- JDBC: Java Database connectivity
+- Exceptions + types
