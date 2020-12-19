@@ -19,3 +19,15 @@ Concepts covered:
 - Wrapper class in Java 
 - JDBC: Java Database connectivity
 - Exceptions + types
+- Constructor Chaining
+- Serialization and Deserialization
+- enum in Java
+- Static keyword in Java
+- Final keyword in Java
+- Finally keyword
+- Finalize method in Java
+- Wildcards in Java
+- Java (Intro)
+- Difference between constructor and methods
+- Extra points and notes
+- Difference between abstract class and interface
